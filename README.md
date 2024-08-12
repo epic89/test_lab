@@ -3,7 +3,7 @@
 ## Adminer is used for managing the database
 
 ### Setup 
-```
+`docker-compose up -d`
 
 ### Adminer endpoint
 [http://localhost](http://localhost)
