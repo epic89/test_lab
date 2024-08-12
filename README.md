@@ -1,6 +1,6 @@
-# Postgresql,Nginx with Docker
+# ADMINER is used for managing the database
 
-## Adminer is used for managing the database
+## Postgresql,Nginx with Docker
 
 ### Setup 
 `docker-compose up -d`
